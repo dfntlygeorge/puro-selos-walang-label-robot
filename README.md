@@ -27,7 +27,7 @@ Follow the steps below to run the robot inside the Robocode environment.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dfntlygeorge/puro-selos-walang-label-robot.git
+git clone https://github.com/your-username/puro-selos-walang-label-robot.git
 ```
 
 > Replace `your-username` with your GitHub handle.
